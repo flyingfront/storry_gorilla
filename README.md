@@ -1,7 +1,7 @@
 # storry_gorilla
 
 ## Table of Contents
-- [Project Outline]()
+- [Project Outline](https://github.com/flyingfront/storry_gorilla#project-outline)
 
 ## Project Outline
 Developing code to enhance the visualization of central concepts through stories. This may include the exploration of graph data bases in the search for the optimal data structure to handle:
