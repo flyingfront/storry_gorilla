@@ -11,3 +11,10 @@ Developing code to enhance the visualization of central concepts through stories
 - characters through time
 - locations
 - and so much more!
+
+
+## Key Elements 
+- Character Devlopment
+- Building Conflict
+- Conflict stems from choices
+- Choices have consequences and lead to more conflict
